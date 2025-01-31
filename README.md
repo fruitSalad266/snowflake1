@@ -1,8 +1,8 @@
 # Snowflake Generator
-This is a Figma plugin that generates snowflakes randomly in a pattern.
+This is a [Figma](https://figma.com) plugin that generates snowflakes randomly in a pattern.
 Snowflakes were created using Alex's [Snowflake](https://www.figma.com/community/plugin/1434601307616372925/snowflake) Figma plugin.
 
-Options include number of snowflakes, spread between the snowflakes on both the x and y axes. Snowflakes are placed based on an elementary implementation of Perlin noise.
+Options include number of snowflakes, spread between the snowflakes on both the x and y axes. Snowflakes are placed based on a custom implementation of [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise).
 
 ## Local development
 Download the repo and move it to your /Figma/app-124.x.x folder.
